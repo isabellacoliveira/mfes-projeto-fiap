@@ -42,9 +42,6 @@
 							"projects/mfe-shell/src/styles.scss"
 						],
 						"scripts": [],
-						"ssr": {
-							"entry": "projects/mfe-shell/server.ts"
-						},
 						"main": "projects/mfe-shell/src/main.ts",
 						"extraWebpackConfig": "projects/mfe-shell/webpack.config.js",
 						"commonChunk": false
